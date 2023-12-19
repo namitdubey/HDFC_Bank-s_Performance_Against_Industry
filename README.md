@@ -53,7 +53,7 @@ Explore a series of dynamic and interactive visualizations that unfold key insig
 
 
 
-
+Embark on a visual journey through the dashboard pages, where data comes to life, unraveling the narrative of HDFC's card performance. This immersive experience aims to empower stakeholders with actionable insights, fostering informed decision-making in the dynamic realm of Indian banking.
 
 
 
